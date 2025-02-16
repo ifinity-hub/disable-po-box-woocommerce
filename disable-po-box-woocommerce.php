@@ -3,7 +3,7 @@
  * Plugin Name: Disable PO Box Addresses in WooCommerce
  * Description: Prevents customers from using PO Box addresses in shipping/billing fields
  * Version: 1.0
- * Author: Unsia Syed
+ * Author: Waqar Hassan
  * Author URI: http://ifinityhub.com
  * License: GPLv2 or later
  */
